@@ -134,4 +134,8 @@ p {
     justify-content: center;
   }
 
-  
+  caption {
+    caption-side: bottom;
+    font-weight: bold;
+    font-style: italic;
+  }
